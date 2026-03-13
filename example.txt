@@ -1,0 +1,6 @@
+Course: 101,java,2
+Student: 1,rahul
+Student: 2,aman
+
+Course: 102,python,3
+
